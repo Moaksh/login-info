@@ -1,0 +1,26 @@
+.a{
+	background-color: rgba(236, 240, 241,1.0);
+	background-size: cover;
+	height: 50vh;
+	width:  40vw;
+	position: absolute;
+	top: 25vh;
+	left: 30vw;
+}
+.b{
+	background-color: rgba(0, 148, 50,1.0);
+	background-size: cover;
+	height: 10vh;
+	width: 40vw;
+	position: absolute;
+	top: 20vh;
+	left: 30vw;
+}
+.b img{
+	background-color: white;
+	border-radius: 100%;
+	position: absolute;
+	top:-2vh;
+	left: 18.5vw;
+	overflow: visible;
+}
